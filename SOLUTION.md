@@ -157,8 +157,8 @@ each bit position, which is in fact what we need for this Hamming code to work.
 
 A more obvious argument, which would be less obvious to derive, uses the fact
 that `A ^ A == 0`, and that the XOR operation is commutative. We first compute
-the "folded bitwise XOR" of sequence of indices which currently store a 1:
-X(S) = S_0 ^ S_1 ^ ... ^ S_n`, and then we calculate, with respect to the target
+the "folded bitwise XOR" of sequence of indices which currently store a 1: `X(S)
+= S_0 ^ S_1 ^ ... ^ S_n`, and then we calculate, with respect to the target
 index T, the flip index F: `F = X(S) ^ T` After flipping F to produce a new
 sequence `S'`, we note that `X(S') = X(S) ^ X(S) ^ T = T`. Hence, the accomplice
 simply needs to calculate this folded bitwise XOR of the received sequence to
