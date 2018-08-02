@@ -13,7 +13,7 @@ from functools import reduce
 from operator import xor
 from random import randrange, choices
 from itertools import count
-from argparse import ArgumentParser, FileType
+from argparse import ArgumentParser
 
 # start of core problem logic:
 
@@ -30,19 +30,6 @@ def generate_flip(bits, target):
     return target ^ find_money(bits)
 
 # end of core problem logic. scripting bureaucracy from here
-
-def isqrt(n):
-    """
-    Calculate the integer square root of a number using the "bit-shift"
-    algorithm.
-    """
-    if n < 2:
-        return n
-    small = isqrt(n >> 2) << 1
-    large = small + 1
-    if large ** 2 > n:
-        return small
-    return large
 
 def ilog2(n):
     """
