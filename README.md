@@ -15,5 +15,5 @@ theory).
 This repository contains [programs to solve][1] this problem, and a
 [document detailing my exact solution][2].
 
-[1]: https://github.com/elterminad0r/tile_encodings/blob/master/src/magic_encode.py
-[2]: https://github.com/elterminad0r/tile_encodings/blob/master/SOLUTION.md
+[1]: https://github.com/elterminad0r/tile_encoding/blob/master/src/magic_encode.py
+[2]: https://github.com/elterminad0r/tile_encoding/blob/master/SOLUTION.md
