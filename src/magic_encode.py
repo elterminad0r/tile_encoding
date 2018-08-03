@@ -93,7 +93,7 @@ def test_board(size):
     """
     board = generate_bits(size)
     pad = len(str(size))
-    h = 1 << (ilog2(size) // 2)
+    h = 1 << (ilog2(size) >> 1)
     w = size // h
     template = make_rectangle(w, h)
     print("the board is:")
