@@ -42,4 +42,4 @@ Usage:
 | LCLICK | Flip the tile under the mouse                               |
 | RCLICK | Make the tile under the mouse the target (do the trick)     |
 
-Also provided is a [video](https://www.youtube.com) of it in action.
+Also provided is a [video](https://youtu.be/221aW0WzvVI) of it in action.
