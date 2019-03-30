@@ -4,8 +4,8 @@ Also implemented is a graphical/interactive applet/sketch in the Processing
 framework. To run it you need Processing with Python mode installed. Below are
 some screenshots at different scales:
 
-![screenshot](https://github.com/elterminad0r/tile_encoding/blob/master/win_screenshot_20180803_170728.png)
-![screenshot](https://github.com/elterminad0r/tile_encoding/blob/master/win_screenshot_20180803_170923.png)
+![screenshot](https://github.com/goedel-gang/tile_encoding/blob/master/win_screenshot_20180803_170728.png)
+![screenshot](https://github.com/goedel-gang/tile_encoding/blob/master/win_screenshot_20180803_170923.png)
 
 The program draws the "board" and then adds some clutter. A tile with a light
 central circle is thought of as a 1.
