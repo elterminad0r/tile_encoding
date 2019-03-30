@@ -18,6 +18,6 @@ This repository contains [programs to solve][1] this problem, and a
 There is also a Processing sketch, but the pretty screenshots of it may contain
 spoilers so go [here][3] to see it.
 
-[1]: https://github.com/elterminad0r/tile_encoding/blob/master/src/magic_encode.py
-[2]: https://github.com/elterminad0r/tile_encoding/blob/master/SOLUTION.md
-[3]: https://github.com/elterminad0r/tile_encoding/blob/master/DOCUMENTATION.md
+[1]: https://github.com/goedel-gang/tile_encoding/blob/master/src/magic_encode.py
+[2]: https://github.com/goedel-gang/tile_encoding/blob/master/SOLUTION.md
+[3]: https://github.com/goedel-gang/tile_encoding/blob/master/DOCUMENTATION.md
