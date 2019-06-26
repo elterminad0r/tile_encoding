@@ -1,5 +1,3 @@
-# vim: ft=python
-
 """
 The main processing app, that basically provides the interface to a TileTrick.
 
